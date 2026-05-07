@@ -4,6 +4,8 @@ This is inspired by Meth-Meth-Method's [super mario game](https://github.com/met
 
 ## Running
 
+* $ py -m venv venv
+* .\venv\Scripts\Activate.ps1
 * $ pip install -r requirements.txt
 * $ python main.py
 
